@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  margin: 0 auto;
+}
+.leaflet-container {
+  height: 400px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.tdBefore {
+  font-weight: 400 !important;
+}
+
+tr {
+  border: none !important;
+  border-top: 1px solid #000 !important;
+}
+
+table {
+  border-spacing: 0px;
+}
